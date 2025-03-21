@@ -1,0 +1,10 @@
+com\pages\SearchFunctionality.class
+com\utils\ExcelUtils.class
+com\base\Hooks.class
+com\pages\RegistrationPage.class
+com\pages\OrderPlacementPage.class
+com\pages\HomePage.class
+com\pages\ProductDetailsPage.class
+com\pages\LoginPage.class
+com\pages\ShoppingCartPage.class
+com\pages\PasswordRecoveryPage.class

@@ -1,0 +1,9 @@
+com\stepdefinition\SearchFunctionalitySteps.class
+com\stepdefinition\OrderPlacementSteps.class
+com\stepdefinition\HomePageStep.class
+com\stepdefinition\ShoppingCartSteps.class
+com\stepdefinition\PasswordRecoverySteps.class
+com\runner\TestRunner.class
+com\stepdefinition\LoginSteps.class
+com\stepdefinition\ProductDetailsPageSteps.class
+com\stepdefinition\RegistrationSteps.class
